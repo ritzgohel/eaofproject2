@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StudentConnectionString-Web.config Connection String" description="StudentConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=10.112.60.43;Initial Catalog=Student;User ID=student;Password=student" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\EAOF\ by\ ritu\\EAOF\ by\ ritu\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StudentConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
